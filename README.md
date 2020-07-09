@@ -1,4 +1,4 @@
-# DCAdfurikunInterstitial
+# アドフリくんの動画インタースティシャル広告を表示する「DCAdfurikunInterstitial」クラス
 
 iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん")の動画インタースティシャル広告を表示する「DCAdfurikunInterstitial」クラスです。
 
